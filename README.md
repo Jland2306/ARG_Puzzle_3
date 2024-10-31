@@ -1,4 +1,4 @@
-# <code style="color : red">GOOd WorK FINdinG tHIs QR cODE</code>
+<h1 style="color:Red;">GOOd WorK FINdinG tHIs QR cODE</h1>
 ## If YoU WIsH To FiNd RItCHie, YoU muSt hEAd To:
 
 ---
