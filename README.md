@@ -1,2 +1,2 @@
-# ARG_Puzzle_3
-Puzzle 3 for our IGME110 Project
+# If YoU WIsH To FiNd RItCHie, YoU muSt hEAd To:
+43.08438122131161, -77.68473480150818
